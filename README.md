@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on Audio Spoof Detection using Neural Networks.
-
-🌱 I’m currently learning Big Data Analytics and Cloud Computing.
+🔭 I’m currently learning Big Data Analytics and Cloud Computing.
 
 👯 I’m looking to collaborate on projects in Deep Learning and NLP.
 
